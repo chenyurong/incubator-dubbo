@@ -18,6 +18,9 @@ package org.apache.dubbo.demo.provider;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+/**
+ * chenshuyi done. here is the entrance.
+ */
 public class Provider {
 
     /**
